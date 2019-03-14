@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/android-app.iml" filepath="$PROJECT_DIR$/app/android-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heatingConsumerApp.iml" filepath="$PROJECT_DIR$/heatingConsumerApp.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\android\heatingConsumerApp-heatingConsumerApp.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\android\heatingConsumerApp-heatingConsumerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-android-wifi/android/react-native-android-wifi.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-android-wifi/android/react-native-android-wifi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-appupdate/android/react-native-appupdate.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-appupdate/android/react-native-appupdate.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-appupdate\android\react-native-appupdate-react-native-appupdate.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-appupdate\android\react-native-appupdate-react-native-appupdate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-camera/android/react-native-camera.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-camera\android\react-native-camera-react-native-camera.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-camera\android\react-native-camera-react-native-camera.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-fs/android/react-native-fs.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-fs/android/react-native-fs.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-fs\android\react-native-fs-react-native-fs.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-fs\android\react-native-fs-react-native-fs.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-network-info\android\react-native-network-info.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-network-info\android\react-native-network-info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-picker/android/react-native-picker.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-picker\android\react-native-picker-react-native-picker.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-picker\android\react-native-picker-react-native-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-smartconfig/android/react-native-smartconfig.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-smartconfig/android/react-native-smartconfig.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-smartconfig\android\react-native-smartconfig-react-native-smartconfig.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-smartconfig\android\react-native-smartconfig-react-native-smartconfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/../node_modules/react-native-vector-icons/android/react-native-vector-icons.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-vector-icons\android\react-native-vector-icons-react-native-vector-icons.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\node_modules\react-native-vector-icons\android\react-native-vector-icons-react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../node_modules/rn-roc-appupdate/android/rn-roc-appupdate.iml" filepath="$PROJECT_DIR$/../node_modules/rn-roc-appupdate/android/rn-roc-appupdate.iml" />
+      <module fileurl="file://E:\git\heating-consumer-app\heatingConsumerApp\node_modules\rn-roc-appupdate\android\rn-roc-appupdate-rn-roc-appupdate.iml" filepath="E:\git\heating-consumer-app\heatingConsumerApp\node_modules\rn-roc-appupdate\android\rn-roc-appupdate-rn-roc-appupdate.iml" />
+    </modules>
+  </component>
+</project>

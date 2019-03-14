@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_4e4449c3f6d4f4be5ea7a52253033c983836e7f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_12c5931d554a248859f513b798b873754fa3c470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jm_pc\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_d2cf813461e6eb5299b4f1ca9ab5f121e6a9e489.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_8347473e616a83276b3cf1a2d9e7d778b0992bf9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.3.0_0d3199410cda61b9f2123a2a9c89364f167ef59a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_b23f37de566b82e2c4c1712cdc789023f49d11ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0b642f8e359dafe89e41ae4b1898e91a8779ec75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jm_pc\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_25c1953b98a302ff45936bd1766e6cec4b01a7e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_694147d30f3cb51c6554c2fde3c0d314706152c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jm_pc\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_4681f368c53805929afdcfe242585303b0ee0024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.3.0_4c58ff2b81f9a3da40b95661bb5e5441d467b9eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jm_pc\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_164861c5778facd1b1ccbe1ba2b9faef228cebee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jm_pc\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_7c26f07c6d884d01c0e7c881d86e974ad9018311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jm_pc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_031bc1c43de5333624533a69d4df609d94ea5feb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.3.0_bec3779401474831c46707cb8e641a8acad8b5cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.55.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.55.4_75325cd5e2ee114a7af9f07184b1b222b1d2202b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jm_pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_66eb0ca7951c47ff621496684341390ad14e5688.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.3.0_9c6af2174c468f1ba244cbd1d28cf0db672b6439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\jm_pc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_129bf164fdc16203eb31c7005bd7fb49fa23fe24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.3.0_52bec6eb964d79f542791e2d7315de5a2e7037c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="E:\git\heating-consumer-app\heatingConsumerApp\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e0ec81e10f956b63088aafbc95d4207840b9cd56.jar" />
+    </item>
+
+</items>

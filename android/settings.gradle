@@ -1,0 +1,20 @@
+rootProject.name = 'heatingConsumerApp'
+include ':react-native-android-wifi'
+project(':react-native-android-wifi').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-android-wifi/android')
+include ':rn-roc-appupdate'
+project(':rn-roc-appupdate').projectDir = new File(rootProject.projectDir, '../node_modules/rn-roc-appupdate/android')
+include ':react-native-camera'
+project(':react-native-camera').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-camera/android')
+include ':react-native-smartconfig'
+project(':react-native-smartconfig').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-smartconfig/android')
+include ':react-native-fs'
+project(':react-native-fs').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-fs/android')
+include ':react-native-appupdate'
+project(':react-native-appupdate').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-appupdate/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+include ':react-native-picker'
+project(':react-native-picker').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-picker/android')
+
+
+include ':app'

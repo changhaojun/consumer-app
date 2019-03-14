@@ -1,0 +1,4 @@
+#Wed Feb 27 11:37:06 CST 2019
+base.0=E\:\\workspace\\heating-consumer-app\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
