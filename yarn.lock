@@ -600,8 +600,8 @@ acorn-walk@^6.0.1:
   resolved "http://registry.npm.taobao.org/acorn-walk/download/acorn-walk-6.1.1.tgz#d363b66f5fac5f018ff9c3a1e7b6f8e310cc3913"
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "http://registry.npm.taobao.org/acorn/download/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
 
 acorn@^6.0.1:
   version "6.0.5"
@@ -3993,9 +3993,9 @@ react-deep-force-update@^1.0.0:
   version "1.1.2"
   resolved "http://registry.npm.taobao.org/react-deep-force-update/download/react-deep-force-update-1.1.2.tgz#3d2ae45c2c9040cbb1772be52f8ea1ade6ca2ee1"
 
-react-devtools-core@^3.4.2:
+react-devtools-core@3.4.3, react-devtools-core@^3.4.2:
   version "3.4.3"
-  resolved "http://registry.npm.taobao.org/react-devtools-core/download/react-devtools-core-3.4.3.tgz#1a06b7dc546d41ecf8dc4fbabea2d79d339353cf"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-3.4.3.tgz#1a06b7dc546d41ecf8dc4fbabea2d79d339353cf"
   dependencies:
     shell-quote "^1.6.1"
     ws "^3.3.1"
@@ -4007,6 +4007,12 @@ react-is@^16.6.3:
 react-native-android-wifi@^0.0.38:
   version "0.0.38"
   resolved "http://registry.npm.taobao.org/react-native-android-wifi/download/react-native-android-wifi-0.0.38.tgz#a4b2fd79b8592c8defcaaca0a36805aa089d50f7"
+
+react-native-appupdate@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-appupdate/-/react-native-appupdate-1.1.2.tgz#9771c3e10367b93d807667ef4afba9e6e7a5468e"
+  dependencies:
+    react-native-fs "^2.3.3"
 
 react-native-camera@^1.6.4:
   version "1.6.4"
