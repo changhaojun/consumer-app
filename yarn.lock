@@ -813,12 +813,11 @@ aws4@^1.8.0:
   version "1.8.0"
   resolved "http://registry.npm.taobao.org/aws4/download/aws4-1.8.0.tgz#f0e003d9ca9e7f59c7a508945d7b2ef9a04a542f"
 
-axios@^0.18.0:
-  version "0.18.0"
-  resolved "http://registry.npm.taobao.org/axios/download/axios-0.18.0.tgz#32d53e4851efdc0a11993b6cd000789d70c05102"
+axios@^0.21.1:
+  version "0.21.1"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.21.1.tgz#22563481962f4d6bde9a76d516ef0e5d3c09b2b8"
   dependencies:
-    follow-redirects "^1.3.0"
-    is-buffer "^1.1.5"
+    follow-redirects "^1.10.0"
 
 babel-code-frame@^6.26.0:
   version "6.26.0"
@@ -1422,7 +1421,7 @@ debug@2.6.9, debug@^2.1.2, debug@^2.2.0, debug@^2.3.3, debug@^2.6.8, debug@^2.6.
   dependencies:
     ms "2.0.0"
 
-debug@=3.1.0, debug@^3.1.0:
+debug@^3.1.0:
   version "3.1.0"
   resolved "http://registry.npm.taobao.org/debug/download/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
   dependencies:
@@ -1890,11 +1889,9 @@ find-up@^2.0.0, find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
-follow-redirects@^1.3.0:
-  version "1.6.1"
-  resolved "http://registry.npm.taobao.org/follow-redirects/download/follow-redirects-1.6.1.tgz#514973c44b5757368bad8bddfe52f81f015c94cb"
-  dependencies:
-    debug "=3.1.0"
+follow-redirects@^1.10.0:
+  version "1.13.1"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.1.tgz#5f69b813376cee4fd0474a3aba835df04ab763b7"
 
 for-in@^1.0.1, for-in@^1.0.2:
   version "1.0.2"
@@ -3993,9 +3990,9 @@ react-deep-force-update@^1.0.0:
   version "1.1.2"
   resolved "http://registry.npm.taobao.org/react-deep-force-update/download/react-deep-force-update-1.1.2.tgz#3d2ae45c2c9040cbb1772be52f8ea1ade6ca2ee1"
 
-react-devtools-core@^3.4.2:
+react-devtools-core@3.4.3, react-devtools-core@^3.4.2:
   version "3.4.3"
-  resolved "http://registry.npm.taobao.org/react-devtools-core/download/react-devtools-core-3.4.3.tgz#1a06b7dc546d41ecf8dc4fbabea2d79d339353cf"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-3.4.3.tgz#1a06b7dc546d41ecf8dc4fbabea2d79d339353cf"
   dependencies:
     shell-quote "^1.6.1"
     ws "^3.3.1"
@@ -4007,6 +4004,12 @@ react-is@^16.6.3:
 react-native-android-wifi@^0.0.38:
   version "0.0.38"
   resolved "http://registry.npm.taobao.org/react-native-android-wifi/download/react-native-android-wifi-0.0.38.tgz#a4b2fd79b8592c8defcaaca0a36805aa089d50f7"
+
+react-native-appupdate@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-appupdate/-/react-native-appupdate-1.1.2.tgz#9771c3e10367b93d807667ef4afba9e6e7a5468e"
+  dependencies:
+    react-native-fs "^2.3.3"
 
 react-native-camera@^1.6.4:
   version "1.6.4"
