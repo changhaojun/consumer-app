@@ -3432,9 +3432,9 @@ mkdirp@^0.5.0, mkdirp@^0.5.1:
   dependencies:
     minimist "0.0.8"
 
-moment@^2.23.0:
-  version "2.23.0"
-  resolved "http://registry.npm.taobao.org/moment/download/moment-2.23.0.tgz#759ea491ac97d54bac5ad776996e2a58cc1bc225"
+moment@^2.29.4:
+  version "2.29.4"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.4.tgz#3dbe052889fe7c1b2ed966fcb3a77328964ef108"
 
 morgan@^1.9.0:
   version "1.9.1"
@@ -3993,9 +3993,9 @@ react-deep-force-update@^1.0.0:
   version "1.1.2"
   resolved "http://registry.npm.taobao.org/react-deep-force-update/download/react-deep-force-update-1.1.2.tgz#3d2ae45c2c9040cbb1772be52f8ea1ade6ca2ee1"
 
-react-devtools-core@^3.4.2:
+react-devtools-core@3.4.3, react-devtools-core@^3.4.2:
   version "3.4.3"
-  resolved "http://registry.npm.taobao.org/react-devtools-core/download/react-devtools-core-3.4.3.tgz#1a06b7dc546d41ecf8dc4fbabea2d79d339353cf"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-3.4.3.tgz#1a06b7dc546d41ecf8dc4fbabea2d79d339353cf"
   dependencies:
     shell-quote "^1.6.1"
     ws "^3.3.1"
@@ -4007,6 +4007,12 @@ react-is@^16.6.3:
 react-native-android-wifi@^0.0.38:
   version "0.0.38"
   resolved "http://registry.npm.taobao.org/react-native-android-wifi/download/react-native-android-wifi-0.0.38.tgz#a4b2fd79b8592c8defcaaca0a36805aa089d50f7"
+
+react-native-appupdate@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-appupdate/-/react-native-appupdate-1.1.2.tgz#9771c3e10367b93d807667ef4afba9e6e7a5468e"
+  dependencies:
+    react-native-fs "^2.3.3"
 
 react-native-camera@^1.6.4:
   version "1.6.4"

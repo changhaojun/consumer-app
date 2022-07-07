@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "echarts": "^4.1.0",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "react": "16.6.3",
     "react-native": "^0.57.7",
     "react-native-android-wifi": "^0.0.38",
