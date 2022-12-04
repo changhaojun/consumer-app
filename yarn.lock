@@ -1439,8 +1439,8 @@ decamelize@^1.1.1:
   resolved "http://registry.npm.taobao.org/decamelize/download/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "http://registry.npm.taobao.org/decode-uri-component/download/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 deep-extend@^0.6.0:
   version "0.6.0"
@@ -3993,9 +3993,9 @@ react-deep-force-update@^1.0.0:
   version "1.1.2"
   resolved "http://registry.npm.taobao.org/react-deep-force-update/download/react-deep-force-update-1.1.2.tgz#3d2ae45c2c9040cbb1772be52f8ea1ade6ca2ee1"
 
-react-devtools-core@^3.4.2:
+react-devtools-core@3.4.3, react-devtools-core@^3.4.2:
   version "3.4.3"
-  resolved "http://registry.npm.taobao.org/react-devtools-core/download/react-devtools-core-3.4.3.tgz#1a06b7dc546d41ecf8dc4fbabea2d79d339353cf"
+  resolved "https://registry.yarnpkg.com/react-devtools-core/-/react-devtools-core-3.4.3.tgz#1a06b7dc546d41ecf8dc4fbabea2d79d339353cf"
   dependencies:
     shell-quote "^1.6.1"
     ws "^3.3.1"
@@ -4007,6 +4007,12 @@ react-is@^16.6.3:
 react-native-android-wifi@^0.0.38:
   version "0.0.38"
   resolved "http://registry.npm.taobao.org/react-native-android-wifi/download/react-native-android-wifi-0.0.38.tgz#a4b2fd79b8592c8defcaaca0a36805aa089d50f7"
+
+react-native-appupdate@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/react-native-appupdate/-/react-native-appupdate-1.1.2.tgz#9771c3e10367b93d807667ef4afba9e6e7a5468e"
+  dependencies:
+    react-native-fs "^2.3.3"
 
 react-native-camera@^1.6.4:
   version "1.6.4"
